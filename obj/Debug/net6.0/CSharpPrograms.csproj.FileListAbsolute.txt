@@ -1,0 +1,15 @@
+D:\NivedhaK\C#\CSharpPrograms\bin\Debug\net6.0\CSharpPrograms.exe
+D:\NivedhaK\C#\CSharpPrograms\bin\Debug\net6.0\CSharpPrograms.deps.json
+D:\NivedhaK\C#\CSharpPrograms\bin\Debug\net6.0\CSharpPrograms.runtimeconfig.json
+D:\NivedhaK\C#\CSharpPrograms\bin\Debug\net6.0\CSharpPrograms.dll
+D:\NivedhaK\C#\CSharpPrograms\bin\Debug\net6.0\ref\CSharpPrograms.dll
+D:\NivedhaK\C#\CSharpPrograms\bin\Debug\net6.0\CSharpPrograms.pdb
+D:\NivedhaK\C#\CSharpPrograms\obj\Debug\net6.0\CSharpPrograms.csproj.AssemblyReference.cache
+D:\NivedhaK\C#\CSharpPrograms\obj\Debug\net6.0\CSharpPrograms.GeneratedMSBuildEditorConfig.editorconfig
+D:\NivedhaK\C#\CSharpPrograms\obj\Debug\net6.0\CSharpPrograms.AssemblyInfoInputs.cache
+D:\NivedhaK\C#\CSharpPrograms\obj\Debug\net6.0\CSharpPrograms.AssemblyInfo.cs
+D:\NivedhaK\C#\CSharpPrograms\obj\Debug\net6.0\CSharpPrograms.csproj.CoreCompileInputs.cache
+D:\NivedhaK\C#\CSharpPrograms\obj\Debug\net6.0\CSharpPrograms.dll
+D:\NivedhaK\C#\CSharpPrograms\obj\Debug\net6.0\ref\CSharpPrograms.dll
+D:\NivedhaK\C#\CSharpPrograms\obj\Debug\net6.0\CSharpPrograms.pdb
+D:\NivedhaK\C#\CSharpPrograms\obj\Debug\net6.0\CSharpPrograms.genruntimeconfig.cache
